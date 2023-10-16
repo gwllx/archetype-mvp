@@ -37,8 +37,7 @@
         <connection>scm:git:git@github.com:gwllx/archetype-mvp.git</connection>
         <developerConnection>scm:git:git@github.com:gwllx/archetype-mvp.git</developerConnection>
         <url>https://github.com/gwllx/archetype-mvp</url>
-      <tag>HEAD</tag>
-  </scm>
+    </scm>
 
     <distributionManagement>
         <snapshotRepository>
