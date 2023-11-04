@@ -12,7 +12,7 @@ This archetype is available in [Maven Central](https://central.sonatype.com/arti
 
 ```shell
 mvn archetype:generate \
-  -DarchetypeVersion=<version> \
+  -DarchetypeVersion=2.0.0 \
   -DarchetypeGroupId=co.gwllx.maven \
   -DarchetypeArtifactId=archetype-mvp
 ```
